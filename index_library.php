@@ -23,6 +23,7 @@ include ("header.php");
             echo '<br>';
             print "Bitte melden Sie sich dann können Sie ein oder merhre Bücher Ausleihen";
         }
+        $x = "test";
             echo '<br>';
         ?>
     </div>
